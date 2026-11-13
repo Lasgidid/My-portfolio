@@ -1,0 +1,6 @@
+{
+  "$schema": "https://www.partykit.io/schema.json",
+  "name": "samuel-portfolio-cursors",
+  "main": "party/cursors.ts",
+  "compatibilityDate": "2026-11-01"
+}
